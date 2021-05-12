@@ -1,0 +1,15 @@
+
+
+.gjs-cv-canvas{
+    top: 0;
+    height: 100px;
+    width: 100px;
+
+}
+
+.gjs-block{
+    width: auto;
+    height: auto;
+    min-height: auto;
+
+}
